@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devdanilobraga/projgestao.git"
+    "url": "git+https://github.com/jorgecosta279/projetogestao.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devdanilobraga/projgestao/issues"
+    "url": "https://github.com/jorgecosta279/projetogestao/issues"
   },
-  "homepage": "https://github.com/devdanilobraga/projgestao#readme",
+  "homepage": "https://github.com/jorgecosta279/projetogestao#readme",
   "description": ""
 }
